@@ -1,6 +1,8 @@
 # Pishti-Card-Game
 Standard 52 pack card game with simple bot
 
+!! The code is here https://github.com/dbatu00/Pishti-Card-Game/blob/main/Pishti/Assets/Scripts/Game.cs !!
+
 Pişti is a card game played with a single deck of 52 cards. The game can be played with 2 or 4 players, but in this project, it will be played with 2 players.
 
 In Pişti, two cards with the same numeric value are considered identical. For example, a ten of hearts is the same as a ten of diamonds, or a jack of clubs is the same as a jack of spades.
